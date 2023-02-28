@@ -2,14 +2,12 @@
 // 3. Simulate and implement Go-Back-N Sliding Window Protocol.
 
 
-//import java.util.Arrays;
-
 public class GoBackN {
     // window size
     private static final int WINDOW_SIZE = 4;
 
     // number of frames to send
-    private static final int NUM_FRAMES = 10;
+    private static final int NUM_FRAMES = 8;
 
     public static void main(String[] args) {
         // initialize the array of frames to be sent
