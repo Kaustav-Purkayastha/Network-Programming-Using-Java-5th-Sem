@@ -1,5 +1,7 @@
 # Network-Programming-Using-Java-5th-Sem
 
+> This repository contains all the Network Programming College Practicals using Java Language done by me in B.Sc. 5th Semester.
+
 ## List of Practical Questions:
 
 1. Simulate Cyclic Redundancy Check (CRC) Error Detection Algorithm for Noisy Channel.
