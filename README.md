@@ -19,6 +19,6 @@
 8. Write a program that prints all the addresses of www.youtube.com
 
 9. Write a program to implement following methods:
-  -  public String getHostName()
-  -  public byte[] getAddress()
-  -  public String getHostAddress()
+    - public String getHostName()
+    - public byte[] getAddress()
+    - public String getHostAddress()
